@@ -1,0 +1,4 @@
+#Mon Dec 05 18:35:06 HKT 2022
+base.0=/Users/sannyhui/AndroidStudioProjects/bachelor/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
